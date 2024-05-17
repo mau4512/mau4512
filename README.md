@@ -44,7 +44,6 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![NodeJs](https://img.shields.io/badge/Node_Js%20-%235FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=black)
    ![React](https://img.shields.io/badge/React%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
    ![Astro](https://img.shields.io/badge/Astro%20-%23BC52EE.svg?style=for-the-badge&logo=astro&logoColor=black)
 
@@ -55,6 +54,7 @@
    ![MySQL](https://img.shields.io/badge/MySQL%20-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
    ![PostGreSQL](https://img.shields.io/badge/PostGreSQL%20-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
    ![Microsoft](https://img.shields.io/badge/Microsoft_SQL_Server%20-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=black)
+   ![NodeJs](https://img.shields.io/badge/Node_Js%20-%235FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=black)
 
 <br>
 
