@@ -34,6 +34,7 @@
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Java](https://img.shields.io/badge/Java%20-%2314354C.svg?style=for-the-badge&logo=java&logoColor=white)
+    ![PHP](https://img.shields.io/badge/Java%20-%2314354C.svg?style=for-the-badge&logo=java&logoColor=white)
 
   
 
@@ -55,6 +56,7 @@
    ![PostGreSQL](https://img.shields.io/badge/PostGreSQL%20-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
    ![Microsoft](https://img.shields.io/badge/Microsoft_SQL_Server%20-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=black)
    ![NodeJs](https://img.shields.io/badge/Node_Js%20-%235FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=black)
+   ![Laravel](https://img.shields.io/badge/Node_Js%20-%235FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=black)
 
 <br>
 
